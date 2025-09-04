@@ -1,3 +1,5 @@
-# Ignore big OSRM data
-*.osm.pbf
-*.osrm*
+.git
+.gitignore
+*.md
+*.zip
+*.bak
